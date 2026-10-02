@@ -34,7 +34,7 @@ export default function ContactPage() {
 
               <div className="mt-10 space-y-7">
                 <div>
-                  <p className="text-sm text-black/45">Phone</p>
+                 . <p className="text-sm text-black/45">Phone</p>
                   <p className="mt-1 font-semibold">
                     {siteConfig.contact.phone}
                   </p>
