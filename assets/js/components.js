@@ -78,6 +78,10 @@ function renderHeader() {
   `;
 }
 
+
+
+
+
 function renderFooter() {
   return `
     <footer class="bg-slate-950 text-slate-300">

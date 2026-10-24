@@ -98,4 +98,98 @@ const SITE_CONFIG = {
       description: "Injection mold solutions for healthcare-related applications."
     }
   ]
+  ,
+  clients: [
+    {
+      name: "Client Company 1",
+      logo: "https://placehold.co/220x100/ffffff/0b3b70?text=Client+Logo",
+      website: "",
+      alt: "Client Company 1 logo"
+    },
+    {
+      name: "Client Company 2",
+      logo: "https://placehold.co/220x100/ffffff/0b3b70?text=Client+Logo",
+      website: "",
+      alt: "Client Company 2 logo"
+    },
+    {
+      name: "Client Company 3",
+      logo: "https://placehold.co/220x100/ffffff/0b3b70?text=Client+Logo",
+      website: "",
+      alt: "Client Company 3 logo"
+    },
+    {
+      name: "Client Company 4",
+      logo: "https://placehold.co/220x100/ffffff/0b3b70?text=Client+Logo",
+      website: "",
+      alt: "Client Company 4 logo"
+    }
+  ],
+
+
+
+  faqs: [
+    {
+      question: "What does B.S.J Tooling Technology Limited specialize in?",
+      answer:
+        "We specialize in injection mold development and manufacturing for automotive, electronics, smart home, and healthcare applications."
+    },
+    {
+      question: "What products and solutions do you offer?",
+      answer:
+        "Our product range includes injection molds, hot runner systems, auxiliary equipment, and industrial robot systems. Contact our team to discuss your specific requirements."
+    },
+    {
+      question: "Which industries do you serve?",
+      answer:
+        "We support manufacturing applications across the automotive, electronics, smart home, and healthcare industries."
+    },
+    {
+      question: "Can I discuss a custom tooling project with your team?",
+      answer:
+        "Yes. Contact our team with your project requirements, drawings, or specifications so we can review your enquiry and discuss the next steps."
+    },
+    {
+      question: "Where is your manufacturing facility located?",
+      answer:
+        "Our manufacturing base is located in Dongguan, Guangdong, China."
+    },
+    {
+      question: "How can I request a quotation?",
+      answer:
+        "Visit our Contact Us page and share your project details, requirements, and relevant specifications to request further information."
+    }
+  ],
+
+  reviews: [
+    {
+      name: "Client Representative 1",
+      company: "Automotive Industry",
+      role: "Project Partner",
+      rating: 5,
+      review:
+        "The team demonstrated a professional approach to our tooling requirements and maintained clear communication throughout our discussions.",
+      image: ""
+    },
+    {
+      name: "Client Representative 2",
+      company: "Electronics Industry",
+      role: "Business Partner",
+      rating: 5,
+      review:
+        "We appreciated the team's attention to detail and commitment to understanding our manufacturing requirements.",
+      image: ""
+    },
+    {
+      name: "Client Representative 3",
+      company: "Industrial Manufacturing",
+      role: "Project Partner",
+      rating: 5,
+      review:
+        "The communication was clear, and the team worked with us to understand the technical needs of our project.",
+      image: ""
+    }
+  ],
+
+
 };
